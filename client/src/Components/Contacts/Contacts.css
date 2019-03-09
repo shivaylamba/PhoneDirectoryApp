@@ -1,0 +1,26 @@
+table {
+  margin: 2rem;
+  width: 100%;
+  color: #3c3c3c;
+}
+
+tr,
+td {
+  padding: 1rem;
+  margin: 1rem;
+  color : rgb(56, 40, 149);
+  text-align: center;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+td {
+  width: 33%;
+}
+
+.Contacts__delete {
+  font-size: inherit;
+  background-color: rgb(0, 43, 92);
+  color: #fff;
+  border: 1px solid cyan;
+  padding: 10px 15px;
+  cursor: pointer;
+}
