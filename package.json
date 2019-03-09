@@ -17,14 +17,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shivam123425/upgrad-assignment.git"
+    "url": "git+https://github.com/shivaylamba/PhoneDirectoryApp.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/shivam123425/upgrad-assignment/issues"
+    "url": "https://github.com/shivaylamba/PhoneDirectoryApp/issues"
   },
-  "homepage": "https://github.com/shivam123425/upgrad-assignment#readme",
+  "homepage": "https://github.com/shivaylamba/PhoneDirectoryApp#readme",
   "dependencies": {
     "express": "^4.16.4"
   }
